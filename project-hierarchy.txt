@@ -1,0 +1,25 @@
+Superman
+├─ .env
+├─ Dockerfile
+├─ README.md
+├─ app
+│  ├─ main.py
+│  ├─ model.py
+│  ├─ schemas.py
+│  └─ utils.py
+├─ core
+│  ├─ __init__.py
+│  ├─ data_preprocessing.py
+│  └─ features_engineering.py
+├─ data
+│  ├─ .gitkeep
+│  ├─ 01_raw
+│  └─ 02_external
+├─ docker-compose.yml
+├─ monitoring
+│  └─ nannyml_runner.py
+├─ requirements.txt
+├─ test_model_connection.py
+├─ tests
+   └─ test_api.py
+

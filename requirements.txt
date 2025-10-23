@@ -1,0 +1,31 @@
+# API & serveur
+fastapi
+uvicorn[standard]
+
+# Machine Learning
+pandas
+scikit-learn
+xgboost
+mlflow
+
+# Visualisation (optionnelle)
+matplotlib
+seaborn
+
+# Kafka
+kafka-python
+
+# Gestion d'environnement
+python-dotenv
+
+# Web scraping & fichiers
+selenium
+requests
+beautifulsoup4
+
+# Utilitaires
+python-dateutil
+nannyml
+streamlit
+boto3
+matplotlib
